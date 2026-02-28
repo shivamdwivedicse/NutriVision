@@ -1,0 +1,7 @@
+{
+  "name": "NutriVision AI",
+  "description": "An intelligent food analysis tool that uses computer vision to estimate calories, break down ingredients, and provide nutritional insights from food images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
